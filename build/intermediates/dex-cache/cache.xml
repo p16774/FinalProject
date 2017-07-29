@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Nate/.android/build-cache/7cb443ed258c605d9dcf8f63d7f21591923edcdf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/Nate/Documents/Class_Work/MDF3/FinalProject/app/build/intermediates/pre-dexed/debug/classes_cb6cc558edc0b8551f8ac6ea1dfeada5aa693d2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nate/.android/build-cache/7b5a0162a3801aa06f3d47f1de2d5ee097edddb8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/Nate/Documents/Class_Work/MDF3/FinalProject/app/build/intermediates/pre-dexed/debug/classes_16156b2c9525fe7b9d3aa1fa7dab163039651e72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nate/.android/build-cache/825f5ebf6258b2aefa30c2bac7a441c5108240a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/Nate/Documents/Class_Work/MDF3/FinalProject/app/build/intermediates/pre-dexed/debug/classes_d53edc08cf7405f897215159f9e43ca60d4c121e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nate/.android/build-cache/0cb2710c94db37d4badb7c80762f58cc9ff9ef11/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/Nate/Documents/Class_Work/MDF3/FinalProject/app/build/intermediates/pre-dexed/debug/classes_eb1c06ba7c2f69ec0b38fb714157b564f715db30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nate/.android/build-cache/8b68a9993f7b66267a8c43560ddad33d9fb984ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/Nate/Documents/Class_Work/MDF3/FinalProject/app/build/intermediates/pre-dexed/debug/classes_1b165d17eb469a98c0302e81c52ede5d5d03dfa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nate/.android/build-cache/5bd297e040c246e76d1a1f4df8b18cdb016d4173/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/Nate/Documents/Class_Work/MDF3/FinalProject/app/build/intermediates/pre-dexed/debug/classes_a06574d842e2580b88469dbedd74da9c0019520f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nate/.android/build-cache/527c6324eb197314282f9754721e222373f8cce4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/Nate/Documents/Class_Work/MDF3/FinalProject/app/build/intermediates/pre-dexed/debug/classes_3d8803eaa463482379ec90ac2bbe6a4b703b6051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nate/.android/build-cache/a4b2a7b19b339d088fc40f19062498cf44df32ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/Nate/Documents/Class_Work/MDF3/FinalProject/app/build/intermediates/pre-dexed/debug/classes_b6e36a3dd82ab007142004ad96e0ff2b03147bd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nate/.android/build-cache/2fa5c2efa247bb951389664e5e995383a33ba427/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/Nate/Documents/Class_Work/MDF3/FinalProject/app/build/intermediates/pre-dexed/debug/classes_af3a66696b66a4e42f96d7b466a233894afd52f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Nate/.android/build-cache/7f85664a7afc891af73ed4c96c8372f98df601e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/Nate/Documents/Class_Work/MDF3/FinalProject/app/build/intermediates/pre-dexed/debug/classes_4e409ed8abc929716a4ea0bd00fde32403d18672.jar" />
+    </item>
+
+</items>
